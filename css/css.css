@@ -4573,6 +4573,13 @@ a {
     margin-top: 170px;
 }
 
+@media (max-width:500px) {
+    .swiper-slide-body-content {
+        width: 70%;
+        margin-left: 10px;
+    }
+}
+
 @media (max-width:1639px) {
     .section_view_block1 .swiper-slide .swiper-slide-body {
         padding-left: 0
